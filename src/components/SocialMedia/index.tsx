@@ -21,7 +21,7 @@ const SocialMedia = () => (
       </Link>
     </div>
     <div>
-      <Link href="https://wa.me/2347053755127?text=Hi%2C%20I%20think%20we%20need%20a%20web%20application.%20How%20soon%20can%20we%20discuss%20this%3F" color="inherit" underline="none" className='socialIcon' aria-label='WhatsApp'>
+      <Link href="https://wa.me/2348188394639?text=Hi%2C%20I%20think%20we%20need%20a%20web%20application.%20How%20soon%20can%20we%20discuss%20this%3F" color="inherit" underline="none" className='socialIcon' aria-label='WhatsApp'>
         <BsWhatsapp />
       </Link>
     </div>
